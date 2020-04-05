@@ -1,0 +1,11 @@
+[package]
+name = "geobird"
+version = "0.1.0"
+authors = ["leklachu <lla@eml.cc>"]
+edition = "2018"
+description = "collecting location-specific satellite images over time from NASA"
+repository = "https://github.com/leklachu/geobird/"
+license = "Unlicense"
+publish = false
+
+[dependencies]
