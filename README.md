@@ -2,6 +2,17 @@
 
 Gets a bird's-eye view of parts of the geoid.
 
+## Status
+
+INCOMPLETE.
+
+Currently it's a library that can make a URL for an image.
+- no config
+- no fetching
+- no putting
+
+but at least it's a start.
+
 ## Function
 
 Geobird uses the excellent resource provdided by NASA to view recent and
